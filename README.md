@@ -3,9 +3,11 @@
 - 🔭 Actualmente trabajo como diseñador y desarrollador web en ADEN Business School
 - 🌱 Me encuentro aprendiendo Svelte
 
+<!--
 ### Lenguajes y herramientas
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
+<div style="height:32;width:32px;background-color: red; mask: url([logo.svg](https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg)) no-repeat center;"></div>
+<img stile="fill:#fff" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sass.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg" />
@@ -20,3 +22,4 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/phpstorm.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sublimetext.svg" />
+-->
