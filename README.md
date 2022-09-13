@@ -1,3 +1,6 @@
+<img src="banner-github.png" alt="banner" width="100%"/>
+<br>
+
 ### Sobre mí:
 
 - 🔭 Actualmente trabajo como diseñador y desarrollador web en ADEN Business School: dónde realizo sitios webs en Wordpress, landings pages y emailings con un desarrollo php propio
