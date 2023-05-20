@@ -8,7 +8,7 @@
 
 ### Conecta conmigo:
 
-<a href="https://ar.linkedin.com/in/carlosruminott"><img align="left" src="linkedin.svg" alt="icon | LinkedIn" width="21px"/></a> <a href="https://www.instagram.com/charlesruminott/"><img align="left" src="instagram.svg" alt="icon | Instagram" width="21px"/></a> <a href="https://www.twitter.com/carlosruminott/"><img align="left" src="twitter.svg" alt="icon | Twitter" width="21px"/></a> <a href="malito:carlosruminott@gmail.com"><img src="gmail.svg" alt="icon | Gmail" width="21px"/></a>
+<a href="https://ar.linkedin.com/in/carlosruminott"><img align="left" src="linkedin.svg" alt="icon | LinkedIn" width="21px"/></a> <a href="https://www.instagram.com/charlesruminott/"><img align="left" src="instagram.svg" alt="icon | Instagram" width="21px"/></a> <a href="https://www.twitter.com/carlosruminott/"><img align="left" src="twitter.svg" alt="icon | Twitter" width="21px"/></a> <a href="mailto:carlosruminott@gmail.com"><img src="gmail.svg" alt="icon | Gmail" width="21px"/></a>
 
 
 ### Lenguajes y herramientas
