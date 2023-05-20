@@ -4,7 +4,7 @@
 ### Sobre mí:
 
 - 🔭 Actualmente trabajo como diseñador y desarrollador web en ADEN Business School: dónde realizo sitios webs en Wordpress, landings pages y emailings con un desarrollo php propio
-- 🌱 Me encuentro aprendiendo Svelte
+- 🌱 Me encuentro aprendiendo Svelte y Astro
 
 ### Conecta conmigo:
 
